@@ -102,5 +102,5 @@ functions.h:
 functions.cpp:
 
 clean:
-	del *.o *.exe
+	rm *.o *.exe
 

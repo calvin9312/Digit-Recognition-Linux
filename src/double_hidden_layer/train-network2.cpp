@@ -1,6 +1,7 @@
 #include <fstream>
 #include <iostream>
 #include <chrono>
+#include <signal.h>
 #include <Eigen/Dense>
 #include "../functions.h"
 #include "network2.h"
