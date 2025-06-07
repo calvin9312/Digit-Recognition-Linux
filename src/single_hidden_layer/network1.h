@@ -1,7 +1,7 @@
 #ifndef DIGIT_RECOGNITION_NETWORK1_H
 #define DIGIT_RECOGNITION_NETWORK1_H
 
-#define WEIGHTS_AND_BIASES_FILE_PATH R"(.\src\single hidden layer\wandb.bin)"
+#define WEIGHTS_AND_BIASES_FILE_PATH R"(.\src\single_hidden_layer\wandb.bin)"
 #define L1_SIZE 250
 
 #include <Eigen/Dense>
