@@ -1,10 +1,10 @@
 #ifndef DIGIT_RECOGNITION_FUNCTIONS_H
 #define DIGIT_RECOGNITION_FUNCTIONS_H
 
-#define TRAIN_LABELS_FILE_PATH R"(.\data\train-labels.idx1-ubyte)"
-#define TRAIN_IMAGES_FILE_PATH R"(.\data\train-images.idx3-ubyte)"
-#define TEST_LABELS_FILE_PATH R"(.\data\t10k-labels.idx1-ubyte)"
-#define TEST_IMAGES_FILE_PATH R"(.\data\t10k-images.idx3-ubyte)"
+#define TRAIN_LABELS_FILE_PATH R"(./data/train-labels.idx1-ubyte)"
+#define TRAIN_IMAGES_FILE_PATH R"(./data/train-images.idx3-ubyte)"
+#define TEST_LABELS_FILE_PATH R"(./data/t10k-labels.idx1-ubyte)"
+#define TEST_IMAGES_FILE_PATH R"(./data/t10k-images.idx3-ubyte)"
 
 #define LABEL_START 8
 #define IMAGE_START 16

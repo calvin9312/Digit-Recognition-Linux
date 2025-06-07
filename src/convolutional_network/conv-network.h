@@ -1,8 +1,8 @@
 #ifndef DIGIT_RECOGNITION_CONV_NETWORK_H
 #define DIGIT_RECOGNITION_CONV_NETWORK_H
 
-#define WEIGHTS_AND_BIASES_FILE_PATH R"(.\src\convolutional network\wandb.bin)"
-#define CONV_IMAGES_FILE_PATH R"(.\src\convolutional network\conv-train-images.bin)"
+#define WEIGHTS_AND_BIASES_FILE_PATH R"(./src/convolutional network/wandb.bin)"
+#define CONV_IMAGES_FILE_PATH R"(./src/convolutional network/conv-train-images.bin)"
 #define L1_SIZE 15
 #define POOLING_WINDOW_SIZE 2
 #define POOLING_STRIDE_SIZE 2
